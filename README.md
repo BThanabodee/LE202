@@ -4,13 +4,11 @@
 
 สำหรับการใส่ Header ใช้สัญลักษณ์ # นำหน้า หรือ --- หรือ ===
 (ตัวอย่าง)
-# Heading 1
-## Heading 2
-### Heading 3
-Heading 4
----
-Heading 5
-===
+#Heading 1   (หลัง# ต้องวรรค)
+##Heading 2
+###Heading 3
+Heading 4 --- (-หรือ= ต้องเคาะบรรทัดใหม่
+Heading 5 ===
 
 
 # Typo
