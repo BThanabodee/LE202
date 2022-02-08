@@ -38,3 +38,22 @@ _This will also be italic_
 **This text will be bold**
 __This will also be bold__
 
+
+# List
+
+สำหรับ List พวกใส่ Bullet เราสามารถใช้ได้ทั้ง * , - , + ในการทำ Unordered List
+
+
+(ตัวอย่าง)
+
+Bullet แบบใช้ *
+
+*This is bullet
+*One Two Three
+
+Bullet แบบใช้ -
+
+- This is unorder list
+- This is another item
+
+
