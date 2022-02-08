@@ -66,3 +66,14 @@ Bullet แบบใช้ -
 > Actions speak louder than words
 
 
+# Task List
+
+การใส่ Task list คล้ายๆกับ List สัญลักษ์ คือ -[] กับ -[x] สำหรับ checked
+
+(ตัวอย่าง)
+
+บาง Service หรือ Tool สามารถทำ Todo List ได้เช่น
+
+- [x] Setup NGINX
+- [ ] Setup Database
+- [x] Done! 
