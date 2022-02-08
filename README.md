@@ -26,3 +26,15 @@ Heading 5 ===
 สำหรับตัวอักษรทั่วไป การแบ่ง Paragraph ใช้แค่การเคาะ 1 บรรทัด หรือการใช้ * หรืิอ _ ระหว่างข้อความ
 เพื่อให้เป็นตัวเอียง ใช้ ** สำหรัับตัวหนา
 (ตัวอย่าง)
+
+
+This is paragraph
+
+This is another paragraph
+
+*This text will be italic*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+
