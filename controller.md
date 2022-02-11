@@ -87,3 +87,22 @@ MIC5353 LDO regulator controlled by the on-board debugger
 
 - [link1](https://docs.platformio.org/en/latest/boards/atmelmegaavr/nano_every.html#board-atmelmegaavr-nano-every)
 - [link2](https://store-usa.arduino.cc/products/arduino-nano-every)
+
+# LOFIVE-R1
+
+![Image](https://media.digikey.com/Photos/GroupGets%20LLC/MFG_LOFIVE-R1_Front.jpg)
+**ราคา** 999.27 บาท
+
+**ความเร็ว** 128-Mbit SPI flash (ISSI IS25LP128)
+
+**ความจำ** 16KB
+
+**พอร์ท**
+
+- 5V via pin 1 on header
+- Operating Voltage: 3.3 V and 1.8 V
+
+**Link**
+
+- [link1](https://www.digikey.co.th/th/products/detail/groupgets-llc/LOFIVE-R1/10186935?utm_adgroup=Evaluation%20Boards%20-%20Embedded%20-%20MCU%2C%20DSP&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Product_%20Development%20Boards%2C%20Kits%2C%20Programmers&utm_term=&productid=10186935&gclid=EAIaIQobChMIoemu-LL39QIVzplmAh2TGQC-EAQYAiABEgIyO_D_BwE)
+- [link2](https://media.digikey.com/pdf/Data%20Sheets/GroupGets%20PDFs/LoFive_R1_Web.pdf)
