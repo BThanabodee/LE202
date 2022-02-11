@@ -5,6 +5,7 @@
 ความเร็ว 48 KB
 ความจำ 6 KB
 พอร์ท 
+
 *Two mechanical buttons (user and reset button)
 
 
