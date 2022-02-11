@@ -1,4 +1,4 @@
-## ผลการสำรวจ บอร์ด ไมโครคอนโทรเลอร์
+### ผลการสำรวจ บอร์ด ไมโครคอนโทรเลอร์
 
 #  Xplained Pro ATmega4809
 
@@ -15,6 +15,9 @@
 - Three Xplained Pro extension headers
 - One MirkoElektronika mikroBUS™ socket
 
-**Links**
+**Link**
+
+- [link](https://docs.platformio.org/en/latest/boards/atmelmegaavr/xplained_pro_4809.html#board-atmelmegaavr-xplained-pro-4809)
+- [link](https://www.microchip.com/en-us/development-tool/ATMEGA4809-XPRO)
 
 
