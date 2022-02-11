@@ -68,24 +68,22 @@ MIC5353 LDO regulator controlled by the on-board debugger
 - [link2](https://th.element14.com/microchip/attiny817-xmini/dev-board-avr-microcontroller/dp/2674883?gclid=EAIaIQobChMI28rC76T39QIVxX4rCh2j-QX4EAQYAiABEgJ5pfD_BwE&mckv=_dc%7Cpcrid%7C554518064101%7Cpkw%7C%7Cpmt%7C%7Cslid%7C%7Cproduct%7C2674883%7Cpgrid%7C123812986770%7Cptaid%7Cpla-293946777986%7C&CMP=KNC-GTH-GEN-SHOPPING-2674883)
 - [link3](https://www.farnell.com/datasheets/2859238.pdf)
 
-#
+# Arduino Nano Every
 
-![Image]
+![Image](https://cdn.shopify.com/s/files/1/0506/1689/3647/products/ABX00028_03.front_1000x750.jpg?v=1627052269)
 
-**ราคา** บาท
+**ราคา** 421.73 บาท
 
-**ความเร็ว** 
+**ความเร็ว** 47.50KB
 
-**ความจำ** 
+**ความจำ** 6KB
 
 **พอร์ท**
 
-- 
-- 
-- 
-- 
+- 8 (ADC 10 bit)
+- Only through PWM (no DAC)
 
 **Link**
 
-- [link1]
-- [link2]
+- [link1](https://docs.platformio.org/en/latest/boards/atmelmegaavr/nano_every.html#board-atmelmegaavr-nano-every)
+- [link2](https://store-usa.arduino.cc/products/arduino-nano-every)
