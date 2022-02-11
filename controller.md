@@ -49,7 +49,7 @@ MIC5353 LDO regulator controlled by the on-board debugger
 
 # ATtiny817
 
-![Image](https://th.element14.com/productimages/standard/en_GB/2674883-40.jpg)
+![Image](https://media.digikey.com/Photos/Atmel%20Photos/ATTINY817-XMINI.jpg)
 
 **ราคา** 543.01 บาท
 
