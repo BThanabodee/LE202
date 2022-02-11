@@ -4,12 +4,9 @@
 
 **ราคา** 1,536.20 บาท
 
-
 **ความเร็ว** 48 KB
 
-
 **ความจำ** 6 KB
-
 
 **พอร์ท**
 
@@ -17,7 +14,6 @@
 - One yellow user LED
 - Three Xplained Pro extension headers
 - One MirkoElektronika mikroBUS™ socket
-
 
 **Links**
 
