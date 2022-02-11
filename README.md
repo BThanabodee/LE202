@@ -77,6 +77,3 @@ Bullet แบบใช้ -
 - [x] Setup NGINX
 - [ ] Setup Database
 - [x] Done! 
-
-
-![Image Alt](https://i.pinimg.com/originals/6c/af/62/6caf62a9929ca120668d0a936c5c3719.jpg)
