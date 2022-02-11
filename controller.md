@@ -91,6 +91,7 @@ MIC5353 LDO regulator controlled by the on-board debugger
 # LOFIVE-R1
 
 ![Image](https://media.digikey.com/Photos/GroupGets%20LLC/MFG_LOFIVE-R1_Front.jpg)
+
 **ราคา** 999.27 บาท
 
 **ความเร็ว** 128-Mbit SPI flash (ISSI IS25LP128)
