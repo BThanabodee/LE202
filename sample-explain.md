@@ -4,16 +4,42 @@
 
 ทั้งนี้ในการทดลองที่ 1 โปรแกรมจะแบ่งออกเป็น 2ส่วน ดังนี้
 
-ส่วนของ setup
+ส่วนของ void setup()
 
 - void setup () คำสั่งนี้จะแสดงให้รันเพียงครั้งเดียว
 - Serial.begin(115200) คำสั่งนี้จะเกี่ยวกับความเร็วที่ใช้
 
-ส่วนของ loop
+ส่วนของ void loop()
 
 - cnt++; คำสั่งนี้คือตัวแปร count คือจะบวกค่าตั้งแต่ 0 ไปเรื่อยๆ ทีละ 1
 - Serial.printf("PATTANT :%d\n",cnt); คำสั่งนี้คือการแสดง count
 - Delay(1000); คือการหน่วงเวลา 1 วินาที หรือ 1000 ms
 
 
-# 
+# การเขียนโปรแกรมค้นหา wifi
+
+ในการทดลองที่ 2 จะแบ่งออกเป็น 2 ส่วนดังนี้
+
+ส่วนของ void setup()
+
+- Serial.begin(115200) คำสั่งนี้จะเกี่ยวกับความเร็วที่ใช้
+- Wifi.mode(WIFI_STA);
+- WiFi.disconnect();      ทั้งหมดนี้จะ setup wifi ให้พร้อมทำงาน
+- Delay(100)
+- Serial.println("\n\n\n");
+
+ส่วนของ void loop() จะแสกนหา wifi รอบตัว
+
+
+# การเขียนโปรแกรม output สัญญานดิจิทัล
+
+ส่วนของ void setup();  จะset ให้ port 0 เป็น output
+
+- Serial.begin(115200)
+- pinMode(0, OUTPUT);
+- Serial.println("\n\n\n");
+
+ส่วนของ void loop()
+
+- digitalWrite(0, HIGH);  คำสั่งนี้ เมื่อ cnt เป็นเลขคู่ จะส่งค่าเป็น high คือ off
+- digitalWrite(0, HIGH);  คำสั่งนี้ เมื่อ cnt เป็นเลขคี่ จะส่งค่าเป็น low คือ on
