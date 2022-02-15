@@ -33,13 +33,31 @@
 
 # การเขียนโปรแกรม output สัญญานดิจิทัล
 
-ส่วนของ void setup();  จะset ให้ port 0 เป็น output
+ส่วนของ void setup()  จะset ให้ port 0 เป็น output
 
 - Serial.begin(115200)
 - pinMode(0, OUTPUT);
 - Serial.println("\n\n\n");
 
-ส่วนของ void loop()
+ส่วนของ void loop();
 
 - digitalWrite(0, HIGH);  คำสั่งนี้ เมื่อ cnt เป็นเลขคู่ จะส่งค่าเป็น high คือ off
 - digitalWrite(0, HIGH);  คำสั่งนี้ เมื่อ cnt เป็นเลขคี่ จะส่งค่าเป็น low คือ on
+- delay(500);  คำสั่งนี้จะวนลูป ทุกครึ่งวิ
+
+
+# การเขียนโปรแกรม input สัญญานดิจิทัล
+
+ส่วนของ void setup()  จะกำหนด port ในการแสดง input และ output
+
+-pinMode(0, INPUT);   
+-pinMode(2, OUTPUT);
+
+ส่วนของ void loop()
+
+-int val = digitalRead(0);  คือการอ่านข้อมูลจาก port 0 รับค่าเข้ามาเป็น 0,1
+-digitalWrite(2, LOW);  แสดงถ้าเป็น 1 ไฟLEDดับ
+-digitalWrite(2, HIGH);  แสดงถ้าเป็น 0 ไฟLEDติด
+
+
+#
