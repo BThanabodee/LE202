@@ -50,14 +50,26 @@
 
 ส่วนของ void setup()  จะกำหนด port ในการแสดง input และ output
 
--pinMode(0, INPUT);   
--pinMode(2, OUTPUT);
+- pinMode(0, INPUT);   
+- pinMode(2, OUTPUT);
 
 ส่วนของ void loop()
 
--int val = digitalRead(0);  คือการอ่านข้อมูลจาก port 0 รับค่าเข้ามาเป็น 0,1
--digitalWrite(2, LOW);  แสดงถ้าเป็น 1 ไฟLEDดับ
--digitalWrite(2, HIGH);  แสดงถ้าเป็น 0 ไฟLEDติด
+- int val = digitalRead(0);  คือการอ่านข้อมูลจาก port 0 รับค่าเข้ามาเป็น 0,1
+- digitalWrite(2, LOW);  แสดงถ้าเป็น 1 ไฟLEDดับ
+- digitalWrite(2, HIGH);  แสดงถ้าเป็น 0 ไฟLEDติด
 
 
-#
+# การเขียนโปรแกรมเชื่อมต่อไวไฟและเซอร์เวอร์
+
+ส่วนของ void setup()  คือการ connect wifi
+
+- Wifi.mode(WIFI_STA);
+- Wifi.begin(ssid. password);
+- while (WiFi.status() != WL_CONNECTED)
+
+
+# การเขียนโปรแกรมสร้างไวไฟแอดเซสพอยต์
+
+- const char* ssid = "MY-ESP8266";  สร้างช่ื่อ wifi
+- const char* password = "choompol";  สร้างรหัสผ่าน
