@@ -5,3 +5,9 @@
 # Machine language
 เป็นภาษาระดับต่ำสุด เพราะใช้เลขฐานสองแทนข้อมูลและคำสั่งต่างๆ เช่น เขียนคำสั่งด้วย 0 หรือ 1
 
+# ตัวอย่างการเปรียบเทียบความสัมพันธ์
+1.) ใช้ภาษา C กับอุปกรณ์ RISC-V rv64gc clang 10.0.0
+    High level - assembly
+    <img width="1440" alt="ภาพถ่ายหน้าจอ 2565-04-03 เวลา 18 13 51" src="https://user-images.githubusercontent.com/98943422/161425973-24fc6441-431e-4aa5-93b9-406da78d2ce9.png">
+    High level - Machine
+    <img width="1440" alt="ภาพถ่ายหน้าจอ 2565-04-03 เวลา 18 13 57" src="https://user-images.githubusercontent.com/98943422/161425995-c3d3759a-9013-4172-a1f7-88758391ca5f.png">
