@@ -18,4 +18,15 @@
     High level - Machine
     <img width="1440" alt="ภาพถ่ายหน้าจอ 2565-04-03 เวลา 18 14 13" src="https://user-images.githubusercontent.com/98943422/161426198-c6b00f11-8544-4b54-b57c-a06b3be6d4ec.png">
 
+3.)ใช้ภาษา C กับอุปกรณ์ x86-64 icc 17.0.0
+    High level - assembly
+    <img width="1440" alt="ภาพถ่ายหน้าจอ 2565-04-03 เวลา 18 14 23" src="https://user-images.githubusercontent.com/98943422/161426263-365c79e8-3ae0-4a55-a4c9-1db26bd045df.png">
+    High level - Machine
+    <img width="1440" alt="ภาพถ่ายหน้าจอ 2565-04-03 เวลา 18 14 27" src="https://user-images.githubusercontent.com/98943422/161426271-9a2abd31-8aa1-4a99-9400-1a2f01ea2a7e.png">
+
+4.) ใช้ภาษา C++ กับอุปกรณ์ x86-64 icc 17.0.0
+    High level - assembly
+    <img width="1440" alt="ภาพถ่ายหน้าจอ 2565-04-03 เวลา 18 14 36" src="https://user-images.githubusercontent.com/98943422/161426294-3e67b6b8-1165-446b-a419-1a00cf5db362.png">
+    High level - Machine
+    <img width="1440" alt="ภาพถ่ายหน้าจอ 2565-04-03 เวลา 18 14 41" src="https://user-images.githubusercontent.com/98943422/161426309-feaf886e-2de6-49a1-ad45-8e55af8a1a5c.png">
 
