@@ -11,3 +11,11 @@
     <img width="1440" alt="ภาพถ่ายหน้าจอ 2565-04-03 เวลา 18 13 51" src="https://user-images.githubusercontent.com/98943422/161425973-24fc6441-431e-4aa5-93b9-406da78d2ce9.png">
     High level - Machine
     <img width="1440" alt="ภาพถ่ายหน้าจอ 2565-04-03 เวลา 18 13 57" src="https://user-images.githubusercontent.com/98943422/161425995-c3d3759a-9013-4172-a1f7-88758391ca5f.png">
+    
+2.) ใช้ภาษา C++ กับอุปกรณ์ RISC-V rv64gc clang 10.0.0
+    High level - assembly
+    <img width="1440" alt="ภาพถ่ายหน้าจอ 2565-04-03 เวลา 18 14 07" src="https://user-images.githubusercontent.com/98943422/161426176-f55aaf52-2d89-4553-b1d1-23d77fe58d9d.png">
+    High level - Machine
+    <img width="1440" alt="ภาพถ่ายหน้าจอ 2565-04-03 เวลา 18 14 13" src="https://user-images.githubusercontent.com/98943422/161426198-c6b00f11-8544-4b54-b57c-a06b3be6d4ec.png">
+
+
