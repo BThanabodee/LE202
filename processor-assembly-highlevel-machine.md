@@ -7,7 +7,6 @@
 
 # ตัวอย่างการเปรียบเทียบความสัมพันธ์
 1.) ใช้ภาษา C กับอุปกรณ์ RISC-V rv64gc clang 10.0.0
-    
     High level - assembly
     <img width="1440" alt="ภาพถ่ายหน้าจอ 2565-04-03 เวลา 18 13 51" src="https://user-images.githubusercontent.com/98943422/161425973-24fc6441-431e-4aa5-93b9-406da78d2ce9.png">
     High level - Machine
